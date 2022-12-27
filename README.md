@@ -1,2 +1,1 @@
-# python-study
-파이썬 공부
+# python 문제풀이 정리
